@@ -9,4 +9,4 @@ The scope of this work was created using vscode, and compiled using g++.
 * [Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
 * [Getting started with C++ on Linux - vscode](https://code.visualstudio.com/docs/cpp/config-linux)
 
-> connect with me: darth.data410@gmail.com - twitter: @PyFryDay
+> connect with me: darth.data410@gmail.com - twitter: [@PyFryDay](http://www.twitter.com/@PyFryDay)
