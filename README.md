@@ -1,4 +1,4 @@
-# CppArgsParse README
+# CppArgsParser README
 
 > Note: This is currently under development.
 
