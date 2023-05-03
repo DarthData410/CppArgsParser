@@ -74,7 +74,6 @@ int main(int argc, const char* argv[])
                 cout << "bool value of: " << bv << endl;
             }
             else {
-                
                 // pure string value for passed argument
                 cout << "pure string of: " << v << endl;
             }
